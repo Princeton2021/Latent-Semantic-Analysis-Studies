@@ -34,7 +34,7 @@
   Repl.it IDE (www.repl.it) has been used for code implementation and execution.
   
   
-  To learn how to run the code, see script "runLSA.sh" or "runLSA_OOP.sh in scripts subdirectory.
+  To learn how to run the code, see script "runLSA_OOP.sh in scripts subdirectory.
   
 
   
