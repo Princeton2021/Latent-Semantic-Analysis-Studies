@@ -42,7 +42,7 @@ def main():
     data_process.corpora_to_words_freq()
     (words_freq_matrix, row, col) = data_process.create_words_freq_matrix()
     
-    # SVD method to create dimension reduced words frequency matrix 
+    # SVD method to decompose the words frequency matrix
     math_techniques = MathTechniques(words_freq_matrix)
     math_techniques.SVD_decomposition()
     
