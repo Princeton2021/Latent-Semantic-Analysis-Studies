@@ -1,0 +1,25 @@
+../source_OOP/LSA.py output:
+
+doc1.txt: Human machine interface for ABC computer applications
+doc2.txt: A survey of user opinion of computer system response time
+doc3.txt: The ESP user interface management system
+doc4.txt: System and human system engineering testing of ESP
+doc5.txt: Relation of user perceived response time to error measurament
+doc6.txt: The generation of random, binary, ordered tree
+doc7.txt: The intersecton graph of paths in tree
+doc8.txt: Graph minor IV: widths of tree and well-quasi-ordering
+doc9.txt: Graph minor: A survey
+
+
+words frequency matrix:
+
+          computer  esp  graph  human  interface  minor  response  survey  system  time  tree  user
+doc1.txt         1    0      0      1          1      0         0       0       0     0     0     0
+doc2.txt         1    0      0      0          0      0         1       1       1     1     0     1
+doc3.txt         0    1      0      0          1      0         0       0       1     0     0     1
+doc4.txt         0    1      0      1          0      0         0       0       2     0     0     0
+doc5.txt         0    0      0      0          0      0         1       0       0     1     0     1
+doc6.txt         0    0      0      0          0      0         0       0       0     0     1     0
+doc7.txt         0    0      1      0          0      0         0       0       0     0     1     0
+doc8.txt         0    0      1      0          0      1         0       0       0     0     1     0
+doc9.txt         0    0      1      0          0      1         0       1       0     0     0     0
